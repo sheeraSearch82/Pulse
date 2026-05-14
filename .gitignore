@@ -1,0 +1,4 @@
+fstar/
+_output/
+.depend
+*.checked
